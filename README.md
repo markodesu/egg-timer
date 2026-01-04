@@ -3,6 +3,7 @@
 ## The Origin Story
 
 My boyfriend cooked his eggs one too many times and created a culinary disaster. So I did what any loving partner would do—I built him an egg timer app to save him from himself.
+Check out my tiktok video where i share the process: https://vt.tiktok.com/ZS5UfmVnQ/
 
 ## What Is This?
 
